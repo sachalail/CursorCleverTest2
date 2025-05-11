@@ -12,5 +12,10 @@ export default defineConfig({
       timeout: 5000,
       overlay: false
     }
+  },
+  preview: {
+    allowedHosts: [
+      "app-12de9394-68fa-405f-8d68-8d6768e59718.cleverapps.io"
+    ]
   }
 })
