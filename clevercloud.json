@@ -1,0 +1,7 @@
+{
+    "type": "static",
+    "name": "mon-chat",
+    "build": {
+        "type": "static"
+    }
+} 
