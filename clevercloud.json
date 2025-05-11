@@ -1,7 +1,11 @@
 {
-    "type": "static",
+    "type": "node",
     "name": "mon-chat",
     "build": {
-        "type": "static"
+        "type": "node",
+        "buildCommand": "npm install && npm run build"
+    },
+    "deploy": {
+        "command": "npm start"
     }
 } 
