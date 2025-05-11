@@ -1,2 +1,0 @@
-# CursorCleverTest
-Bloup

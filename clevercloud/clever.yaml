@@ -1,0 +1,7 @@
+type: node
+build:
+  type: npm
+  command: npm run build
+run:
+  command: npm run preview
+  port: 8080 
